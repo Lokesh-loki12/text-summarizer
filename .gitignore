@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+
+
+# Virtual environment
+myenv/
+venv/
+.env
+
+# Model files (if you don't want to upload large models)
+saved_summary_model/
